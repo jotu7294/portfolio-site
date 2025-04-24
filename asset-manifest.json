@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.e8bdfe2e.css",
-    "main.js": "/portfolio-site/static/js/main.ab916fb7.js",
+    "main.js": "/portfolio-site/static/js/main.4417b239.js",
     "static/js/453.534db5b8.chunk.js": "/portfolio-site/static/js/453.534db5b8.chunk.js",
     "static/media/spheresix-landing.png": "/portfolio-site/static/media/spheresix-landing.968c0b9c40497df08a2c.png",
     "static/media/volum-landing.png": "/portfolio-site/static/media/volum-landing.87d146692a9d7a2834dd.png",
     "static/media/Joey-Tursi-Resume.pdf": "/portfolio-site/static/media/Joey-Tursi-Resume.9bbe522b8c5100ab370f.pdf",
     "index.html": "/portfolio-site/index.html",
     "main.e8bdfe2e.css.map": "/portfolio-site/static/css/main.e8bdfe2e.css.map",
-    "main.ab916fb7.js.map": "/portfolio-site/static/js/main.ab916fb7.js.map",
+    "main.4417b239.js.map": "/portfolio-site/static/js/main.4417b239.js.map",
     "453.534db5b8.chunk.js.map": "/portfolio-site/static/js/453.534db5b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8bdfe2e.css",
-    "static/js/main.ab916fb7.js"
+    "static/js/main.4417b239.js"
   ]
 }
